@@ -1,7 +1,7 @@
 # dev-container-mysql
 
 ## データベース名
-test_db
+mydb
 ## ユーザー名
 test_user
 ## パスワード
